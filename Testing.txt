@@ -1,0 +1,4 @@
+Lab practicals 
+testing Gittest
+git bash
+git hub
